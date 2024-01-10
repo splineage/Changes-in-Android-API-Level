@@ -1,4 +1,4 @@
-# 'getDrawable(Int): Drawable!' 
+# getDrawable(Int): Drawable
 Deprecated in API level 22
 
 ## Instead
