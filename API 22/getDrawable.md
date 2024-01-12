@@ -1,5 +1,5 @@
 # getDrawable(Int): Drawable
-Deprecated in API level 22
+Deprecated in API level 22   
 Theme 매개변수가 추가됨.
 
 ## Instead
