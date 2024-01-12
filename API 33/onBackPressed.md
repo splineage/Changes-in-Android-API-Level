@@ -1,6 +1,6 @@
 API 33 에서 predictive back 로 인해 기존 onBackPressed 가 deprecated 됨.
 
-```
+```kotlin
 @Override
 fun onCreate() {
     if (BuildCompat.isAtLeastT()) {
